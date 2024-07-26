@@ -7,9 +7,9 @@ I'm a Computer Science Engineering student at Finolex Academy of Management & Te
 ## 🔧 Technologies & Tools
 
 - Android Studio
+- Flutter
 - Java
 - Python
-- HTML/CSS
 - Git
 
 ## 🌱 Currently Learning
