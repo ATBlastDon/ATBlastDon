@@ -2,13 +2,12 @@
 
 ## About Me
 
-I'm a Computer Science Engineering student at Finolex Academy of Management & Technology in Ratnagiri, Maharashtra, India. I'm passionate about coding and consider myself an avid Android lover.
+I'm a passionate coder with hands-on experience in intermediate-level Python programming and Flutter-based Android app development. I love creating intuitive, user-friendly mobile applications and constantly exploring new technologies to improve my skills. As an Android enthusiast, I enjoy building solutions that merge functionality with great design, aiming to make a real impact through mobile tech.
 
 ## 🔧 Technologies & Tools
 
-- Android Studio
 - Flutter
-- Java
+- MySQL
 - Python
 - Git
 
